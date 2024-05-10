@@ -80,6 +80,8 @@ La lista de categoría de productos se puede encontrar en [Metodología INDEC N
   variación de precios(1-15) = tasa acumulada para variaciones 1D (1, 2, ...,15).
   ```
 
+> Esta validación se puede observar desde el código que esta en [main.py](main.py)
+
 # Contribuciones
 
 No hay guía de momento pero son bienvenidos todos los comentarios, defectos o cambios.
