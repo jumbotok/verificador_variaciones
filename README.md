@@ -70,6 +70,8 @@ La lista de categoría de productos se puede encontrar en [Metodología INDEC N
 | 2024-05-08 | 1.074701536116322  | -0.0329995974049097 | [Ver](https://x.com/Bot_JumboOk/status/1788167556794081325)          |
 | 2024-05-09 | 1.512453681518906  | 0.4330976384294871  | [Ver](https://x.com/Bot_JumboOk/status/1788529517839212748)          |
 
+> Ver [lista de precios](data/precios.md) en base a los cuales se realizan los cálculos de variaciones. Para conocer fórmulas de cálculo, ver la sección [forma de calcular](#forma-de-calcular).
+
 ## Forma de validar cálculo
 
 ▪ verificar, la tasa de inflación acumulada usando variación de precios 1D, equivale a la variación de precio el mismo periodo.
