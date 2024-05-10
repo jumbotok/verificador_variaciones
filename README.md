@@ -26,7 +26,7 @@ Durante la ejecución del proceso va a realizar la verificación de consistencia
 
 ## Localmente
 
-1. Requiere python 3.8 o superior
+1. Requiere python 3.9 o superior
 
 1. Instalar los requirimientos
 
@@ -58,15 +58,17 @@ La lista de categoría de productos se puede encontrar en [Metodología INDEC N
 
 ## Ejemplo de datos
 
-| fecha      | variación precio   | variación precio 1D | publicación                                                    |
-|------------|--------------------|---------------------|----------------------------------------------------------------|
-| 2024-05-01 | 0.00               | 1.1542629190877136  | No disponible. Los 1ero de mes [porque es cero](#Metodología). |
-| 2024-05-02 | 1.1584416530775457 | 1.1584416530775457  | [Ver](https://x.com/Bot_JumboOk/status/1785992611662049548)    |
-| 2024-05-03 | 0.5064845706715744 | -0.6444910298656623 | [Ver](https://x.com/Bot_JumboOk/status/1786355086035390491)    |
-| 2024-05-04 | 0.4901422687799481 | -0.0162599477649934 | [Ver](https://x.com/Bot_JumboOk/status/1786717290911969678)    |
-| 2024-05-05 | 0.1564897189304304 | -0.3320251542256756 | [Ver](https://x.com/Bot_JumboOk/status/1787079722893230249)    |
-| 2024-05-06 | 1.3749888309809108 | 1.2165952655388992  | [Ver](https://x.com/Bot_JumboOk/status/1787442348823105626)    |
-| 2024-05-07 | 1.1080667911012654 | -0.2633016713073601 | [Ver](https://x.com/Bot_JumboOk/status/1787805133499240675)    |
+| fecha      | variación precio   | variación precio 1D | publicación                                                          |
+|------------|--------------------|---------------------|----------------------------------------------------------------------|
+| 2024-05-01 | 0.00               | 1.1542629190877136  | No disponible. Los 1ero de mes [porque es cero](#forma-de-calcular)  |
+| 2024-05-02 | 1.1584416530775457 | 1.1584416530775457  | [Ver](https://x.com/Bot_JumboOk/status/1785992611662049548)          |
+| 2024-05-03 | 0.5064845706715744 | -0.6444910298656623 | [Ver](https://x.com/Bot_JumboOk/status/1786355086035390491)          |
+| 2024-05-04 | 0.4901422687799481 | -0.0162599477649934 | [Ver](https://x.com/Bot_JumboOk/status/1786717290911969678)          |
+| 2024-05-05 | 0.1564897189304304 | -0.3320251542256756 | [Ver](https://x.com/Bot_JumboOk/status/1787079722893230249)          |
+| 2024-05-06 | 1.3749888309809108 | 1.2165952655388992  | [Ver](https://x.com/Bot_JumboOk/status/1787442348823105626)          |
+| 2024-05-07 | 1.1080667911012654 | -0.2633016713073601 | [Ver](https://x.com/Bot_JumboOk/status/1787805133499240675)          |
+| 2024-05-08 | 1.074701536116322  | -0.0329995974049097 | [Ver](https://x.com/Bot_JumboOk/status/1788167556794081325)          |
+| 2024-05-09 | 1.512453681518906  | 0.4330976384294871  | [Ver](https://x.com/Bot_JumboOk/status/1788529517839212748)          |
 
 ## Forma de validar cálculo
 

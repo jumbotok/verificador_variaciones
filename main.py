@@ -1,6 +1,6 @@
 # Período a validar
 primero_de_mes_mas_uno = '2024-05-02'
-fecha_fin = '2024-05-07'
+fecha_fin = '2024-05-09'
 
 print(f"Verificación de variación de precios entre {primero_de_mes_mas_uno} y {fecha_fin}\n")
 
@@ -19,7 +19,11 @@ variacion_precios = {
     # https://x.com/Bot_JumboOk/status/1787442348823105626
     '2024-05-06': { 'variacion_precios': 1.3749888309809108, 'variacion_precios_1D': 1.2165952655388992  },
     # https://x.com/Bot_JumboOk/status/1787805133499240675
-    '2024-05-07': { 'variacion_precios': 1.1080667911012654, 'variacion_precios_1D': -0.2633016713073601 }
+    '2024-05-07': { 'variacion_precios': 1.1080667911012654, 'variacion_precios_1D': -0.2633016713073601 },
+    # https://x.com/Bot_JumboOk/status/1788167556794081325
+    '2024-05-08': { 'variacion_precios': 1.074701536116322 , 'variacion_precios_1D': -0.0329995974049097 },
+    # https://x.com/Bot_JumboOk/status/1788529517839212748
+    '2024-05-09': { 'variacion_precios': 1.512453681518906 , 'variacion_precios_1D': 0.4330976384294871  }
 }
 
 def calc_tasa_inflacion_acumuladas(variaciones:dict):
