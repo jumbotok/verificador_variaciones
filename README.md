@@ -4,7 +4,7 @@
 
 # Verificador de variación de precios de [Jumb⚇‪t](https://x.com/Bot_JumboOk)
 
-[Jumb⚇‪t](https://x.com/Bot_JumboOk) es un bot que publica diariamente a sus seguidores la variación de precios de la canasta básica alimentaria para un conocido Hiper.
+[Jumb⚇‪t](https://x.com/Bot_JumboOk) es un bot que publica diariamente a sus seguidores la variación de precios de la canasta básica alimentaria observando los datos públicos de un conocido Hiper.
 
 Durante la ejecución del proceso va a realizar la verificación de consistencia de datos. Esta compara `variación de precio` contra `tasa de inflación acumulada 1D`.
 
@@ -16,7 +16,7 @@ Durante la ejecución del proceso va a realizar la verificación de consistencia
 
 ### Para qué no sirve?
 
-- No previene que se puedan alterar los datos de las muestras base.
+- No previene que se pueda alterar la carga de una observación de precios.
 
 # Ejecutar
 
@@ -26,7 +26,7 @@ Durante la ejecución del proceso va a realizar la verificación de consistencia
 
 ## Localmente
 
-1. Requiere python 3.9 o superior
+1. Requiere python 3.8 o superior
 
 1. Instalar los requirimientos
 
@@ -46,7 +46,7 @@ Durante la ejecución del proceso va a realizar la verificación de consistencia
 
 ## Introducción
 
-[Jumb⚇‪t](https://x.com/Bot_JumboOk) a diario obtiene precios publicados pertencientes a la Canasta Básica Alimentaria de Argentina para realizar los cálculos de variación de precios. Actualmente no busca ponderar. Además, del cálculo día a día tiene cortes semanales y mensuales.
+[Jumb⚇‪t](https://x.com/Bot_JumboOk) a diario observa precios publicados pertencientes a la Canasta Básica Alimentaria de Argentina.
 
 La lista de categoría de productos se puede encontrar en [Metodología INDEC No 22](https://www.indec.gob.ar/ftp/cuadros/sociedad/EPH_metodologia_22_pobreza.pdf).
 
@@ -76,9 +76,16 @@ La lista de categoría de productos se puede encontrar en [Metodología INDEC N
 
 ▪ verificar, la tasa de inflación acumulada usando variación de precios 1D, equivale a la variación de precio el mismo periodo.
 
+  $$\color{green}Variación\quad de\quad precios=(CBA_n - CBA_i) \div CBA_i) \times 100$$
+
+  $$\color{green}Tasa\quad acumulada\quad para\quad variaciones\quad 1D=(\prod_{i=1}^{n} (1 + r_i) - 1) \times 100$$
+
   ```output
-  variación de precios(1-15) = tasa acumulada para variaciones 1D (1, 2, ...,15).
+  i = 1
+  n = 15
+  Variación de precios(1-15) = tasa acumulada para variaciones 1D (1, 2, ...,15).
   ```
+
 
 > Esta validación se puede observar desde el código que esta en [main.py](main.py)
 
