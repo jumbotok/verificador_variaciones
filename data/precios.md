@@ -1,66 +1,66 @@
-| PRODUCTO               |
-|:-----------------------|
-| PAN FRANCES            |
-| GALLETITAS DULCES      |
-| GALLETITAS DE AGUA     |
-| HARINA DE TRIGO        |
-| HARINA DE MAIZ         |
-| ARROZ                  |
-| FIDEOS SECOS           |
-| ASADO                  |
-| CARNAZA COMUN          |
-| HUESO CON CARNE        |
-| PALETA                 |
-| CARNE PICADA           |
-| NALGA                  |
-| HIGADO                 |
-| PECHITO DE CERDO       |
-| POLLO                  |
-| CARNE DE PESCADO       |
-| MORTADELA              |
-| PALETA COCIDA          |
-| SALCHICHON             |
-| SALAME                 |
-| ACEITE DE GIRASOL      |
-| MARGARINA PARA COCINAR |
-| LECHE FLUIDA           |
-| LECHE EN POLVO ENTERA  |
-| QUESO CREMA            |
-| QUESO CUARTIROLO       |
-| QUESO DE RALLAR        |
-| MANTECA                |
-| YOGUR                  |
-| DULCE DE LECHE         |
-| HUEVO                  |
-| MANZANA                |
-| MANDARINA              |
-| NARANJA                |
-| BANANA                 |
-| PERA                   |
-| BATATA                 |
-| PAPA                   |
-| ACELGA                 |
-| CEBOLLA                |
-| CHOCLO                 |
-| LECHUGA                |
-| TOMATE PERITA          |
-| ZANAHORIA              |
-| ZAPALLO                |
-| TOMATE ENVASADO        |
-| ARVEJAS EN LATA        |
-| LENTEJAS SECAS         |
-| AZUCAR                 |
-| DULCE DE BATATA        |
-| MERMELADA              |
-| SAL FINA               |
-| MAYONESA               |
-| VINAGRE                |
-| CALDO CONCENTRADO      |
-| GASEOSAS               |
-| JUGOS CONCENTRADOS     |
-| SODA                   |
-| CERVEZA                |
-| VINO                   |
-| CAFE                   |
-| YERBA                  |
-| TE EN SAQUITOS         |
+| PRODUCTO               |   2024-11-01 |
+|:-----------------------|-------------:|
+| PAN FRANCES            |     2599     |
+| GALLETITAS DULCES      |      700     |
+| GALLETITAS DE AGUA     |      500     |
+| HARINA DE TRIGO        |     1050     |
+| HARINA DE MAIZ         |     1512.64  |
+| ARROZ                  |     1970.53  |
+| FIDEOS SECOS           |     1141.3   |
+| ASADO                  |     5789.58  |
+| CARNAZA COMUN          |     5499     |
+| HUESO CON CARNE        |     2649     |
+| PALETA                 |     9249     |
+| CARNE PICADA           |     4499     |
+| NALGA                  |     9025     |
+| HIGADO                 |     3049     |
+| PECHITO DE CERDO       |     4999     |
+| POLLO                  |     2699     |
+| CARNE DE PESCADO       |     2890     |
+| MORTADELA              |     2075.74  |
+| PALETA COCIDA          |     4522     |
+| SALCHICHON             |     2020.75  |
+| SALAME                 |     9599.2   |
+| ACEITE DE GIRASOL      |     1638.02  |
+| MARGARINA PARA COCINAR |     3283.12  |
+| LECHE FLUIDA           |     1352.98  |
+| LECHE EN POLVO ENTERA  |    10009.6   |
+| QUESO CREMA            |     3061.63  |
+| QUESO CUARTIROLO       |     7890     |
+| QUESO DE RALLAR        |    15999     |
+| MANTECA                |     2540.32  |
+| YOGUR                  |      690.735 |
+| DULCE DE LECHE         |     2250     |
+| HUEVO                  |     1437.57  |
+| MANZANA                |     3037.26  |
+| MANDARINA              |     1299     |
+| NARANJA                |      899     |
+| BANANA                 |     1999     |
+| PERA                   |      999     |
+| BATATA                 |     1799     |
+| PAPA                   |     1349.03  |
+| ACELGA                 |     1287.85  |
+| CEBOLLA                |     1511.6   |
+| CHOCLO                 |      999     |
+| LECHUGA                |     4102.54  |
+| TOMATE PERITA          |     5499     |
+| ZANAHORIA              |     3014.47  |
+| ZAPALLO                |     1499     |
+| TOMATE ENVASADO        |     2000     |
+| ARVEJAS EN LATA        |      668.372 |
+| LENTEJAS SECAS         |     2000     |
+| AZUCAR                 |      652.551 |
+| DULCE DE BATATA        |     3583.73  |
+| MERMELADA              |      800     |
+| SAL FINA               |     1219     |
+| MAYONESA               |      700     |
+| VINAGRE                |      940.625 |
+| CALDO CONCENTRADO      |      800     |
+| GASEOSAS               |     1763.79  |
+| JUGOS CONCENTRADOS     |      202     |
+| SODA                   |     1300     |
+| CERVEZA                |     2951.11  |
+| VINO                   |     1700     |
+| CAFE                   |     1984.44  |
+| YERBA                  |     1700     |
+| TE EN SAQUITOS         |      700     |
